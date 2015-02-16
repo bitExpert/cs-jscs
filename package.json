@@ -1,0 +1,25 @@
+{
+  "name": "bitexpert-cs-jscs",
+  "description": "bitExpert jscs configuration",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "dependencies": {
+    "grunt-jscs": "^1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitExpert/cs-jscs.git"
+  },
+  "keywords": [
+    "bitExpert",
+    "jscs"
+  ],
+  "homepage": "https://github.com/bitExpert/cs-jscs",
+  "author": "bitExpert AG <info@bitExpert.de>",
+  "contributors": [
+    "Peter Hildenbrand <P.Hildenbrand@bitExpert.de>",
+    "Stephan Hochdörfer <S.Hochdoerfer@bitExpert.de>"
+  ],
+  "license": "Apache-2.0"
+}

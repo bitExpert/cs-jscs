@@ -1,0 +1,93 @@
+{
+    "additionalRules": [
+        "./rules/require-block-arrays.js",
+        "./rules/require-block-objects.js",
+        "./rules/require-space-before-object-property-value.js"
+    ],
+    "validateQuoteMarks": "'",
+    "requireSpaceBeforeObjectPropertyValue": true,
+    "requireBlockArrays": true,
+    "requireBlockObjects": true,
+    "requireCurlyBraces": [
+        "if",
+        "else",
+        "for",
+        "while",
+        "do",
+        "switch"
+    ],
+    "requireSpaceAfterKeywords": [
+        "if",
+        "else",
+        "for",
+        "while",
+        "do",
+        "switch",
+        "return"
+    ],
+    "requireSpacesInFunctionExpression": {
+        "beforeOpeningRoundBrace": true,
+        "afterClosingRoundBrace": true,
+        "beforeOpeningCurlyBrace": true
+    },
+    "requireBlocksOnNewline": true,
+    "disallowSpacesInsideObjectBrackets": true,
+    "disallowSpacesInsideArrayBrackets": true,
+    "disallowSpacesInsideParentheses": true,
+    "disallowSpaceAfterObjectKeys": true,
+    "requireCommaBeforeLineBreak": true,
+    "validateIndentation": 4,
+    "disallowMixedSpacesAndTabs": true,
+    "requireCamelCaseOrUpperCaseIdentifiers": true,
+    "disallowTrailingWhitespace": true,
+    "disallowTrailingComma": true,
+    "requireMultipleVarDecl": true,
+    "safeContextKeyword": [
+        "me"
+    ],
+    "disallowKeywordsOnNewLine": [
+        "else"
+    ],
+    "requireSpaceBeforeBinaryOperators": [
+        "+",
+        "-",
+        "/",
+        "*",
+        "=",
+        "==",
+        "===",
+        "!=",
+        "!=="
+    ],
+    "requireSpaceAfterBinaryOperators": [
+        "+",
+        "-",
+        "/",
+        "*",
+        "=",
+        "==",
+        "===",
+        "!=",
+        "!=="
+    ],
+    "disallowSpaceAfterPrefixUnaryOperators": [
+        "++",
+        "--",
+        "+",
+        "-"
+    ],
+    "disallowSpaceBeforePostfixUnaryOperators": [
+        "++",
+        "--"
+    ],
+    "disallowKeywords": [
+        "with"
+    ],
+    "validateLineBreaks": "LF",
+    "requireSpacesInConditionalExpression": {
+        "afterTest": true,
+        "beforeConsequent": true,
+        "afterConsequent": true,
+        "beforeAlternate": true
+    }
+}
