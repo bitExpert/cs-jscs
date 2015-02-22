@@ -6,11 +6,6 @@ Code Style.
 
 ## Installation
 
-It is required to have the scss-lint ruby package installed as the grunt-scss-lint plugin is a wrapper round that tool. 
-You can use gem to install the package:
-
-    sudo gem install scss-lint
-
 Add the "bitexpert-cs-jscs" package to the dev-dependencies section of your package.json file which resides in the 
 root folder of your project:
 
