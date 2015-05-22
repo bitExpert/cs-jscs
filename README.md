@@ -1,4 +1,4 @@
-# bitexpert-cs-jscs
+# bitexpert-cs-jscs [![Dependency Status](https://www.versioneye.com/nodejs/bitexpert-cs-jscs/0.1.4/badge.svg)](https://www.versioneye.com/nodejs/bitexpert-cs-jscs/0.1.4)
 
 
 This repository contains the configuration for jscs which is used by the grunt-jscs-checker plugin to check JavaScript 
